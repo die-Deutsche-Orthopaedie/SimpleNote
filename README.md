@@ -36,6 +36,11 @@ Someday i'll rewrite that crap, fix bugs, add new layouts, and maybe implement M
 总有一天我会重写这坨玩意，修补bug，加上新的layout，也许还会做成MD，但很明显不是现在。
 
 
+and i'll fuck CS chaotic bitch in my entire life
+
+还有，计院糟糕妹一生黑
+
+
 die♂deutsche♂Orthopädie out
 
 德国♂骨科找妹妹
