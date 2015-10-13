@@ -24,7 +24,7 @@ Almost implements all features that original OneNote offers:
 	No Live Account and License required
 	无需Live帐号和授权
 	
-	But the data structure is Completely Different with the Original OneNote .one data structre
+	But the data structure is Completely Different with the Original OneNote .one data structure
 	然而数据结构与原版OneNote的.one数据结构完全不同
 
 Plenty of bugs exists, and i'll NOT try to fix it at this time. Anyway This piece of codes' nothin' but a attempt to finish a goddamned cource and do some (inaccurate) Software Enginnerin' Practice. 
