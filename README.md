@@ -27,13 +27,13 @@ Almost implements all features that original OneNote offers:
 	But the data structure is Completely Different with the Original OneNote .one data structure
 	然而数据结构与原版OneNote的.one数据结构完全不同
 
-Plenty of bugs exists, and i'll NOT try to fix it at this time. Anyway This piece of codes' nothin' but a attempt to finish a goddamned cource and do some (inaccurate) Software Enginnerin' Practice. 
+Plenty of bugs exists, and i'll NOT try to fix it at this time. Anyway This piece of codes' nothin' but a attempt to finish a goddamned CS cource and implement some (inaccurate) Software Enginnerin' Practice. 
 
 bug有一堆，而且我目前不准备修补它们。反正这坨代码只是某门计院糟糕课程的作业，和一次（不怎么准确的）软件工程实践而已。
 
 
 Someday i'll rewrite that crap, fix bugs, add new layouts, and maybe implement Material Design, but obviously not now. 
-总有一天我会重写这坨玩意，修补bug，加上新的layout，也许还会做成MD，但很明显不是现在。
+总有一天我会重写这坨玩意，修补bug，加上新的layout，也许还会做成MD风格，但很明显不是现在。
 
 
 and i'll fuck CS chaotic bitch in my entire life
