@@ -1,12 +1,10 @@
 # SimpleNote
 
-A (nearly) perfect replica of the original Microsoft Office OneNote on Android, made in Q2 2013, months before Microsoft releases the original OneNote for Android application (but factually the Microsoft one sucks, far behind PC version experience). 
-
+A (nearly) perfect replica of the original Microsoft Office OneNote on Android, made in Q2 2013, months before Microsoft releases the original OneNote for Android application (but factually the Microsoft one sucks, far behind PC version experience).  
 运行在Android上的微♂软Office OneNote的(几乎)精确的复制品。制于13年夏，差不多几个月后微♂软官方的OneNote for Android才出（但事实上微♂软那个烂透了，远没有PC版用起来爽）。
 
 
-Almost implements all features that original OneNote offers: 
-
+Almost implements all features that original OneNote offers:  
 几乎实现了原版OneNote的所有功能：
 
 	Section Group, Section and Records of any number
@@ -27,8 +25,7 @@ Almost implements all features that original OneNote offers:
 	But the data structure is Completely Different with the Original OneNote .one data structure
 	然而数据结构与原版OneNote的.one数据结构完全不同
 
-Plenty of bugs exists, and i'll NOT try to fix it at this time. Anyway This piece of codes' nothin' but a attempt to finish a goddamned CS cource and implement some (inaccurate) Software Enginnerin' Practice. 
-
+Plenty of bugs exists, and i'll NOT try to fix it at this time. Anyway This piece of codes' nothin' but a attempt to finish a goddamned CS cource and implement some (inaccurate) Software Enginnerin' Practice.  
 bug有一堆，而且我目前不准备修补它们。反正这坨代码只是某门计院糟糕课程的作业，和一次（不怎么准确的）软件工程实践而已。
 
 
@@ -36,11 +33,9 @@ Someday i'll rewrite that crap, fix bugs, add new layouts, and maybe implement M
 总有一天我会重写这坨玩意，修补bug，加上新的layout，也许还会做成MD风格，但很明显不是现在。
 
 
-and i'll fuck CS chaotic bitch in my entire life
-
+and i'll fuck CS chaotic bitch in my entire life 
 还有，计院糟糕妹一生黑
 
 
-die♂deutsche♂Orthopädie out
-
+die♂deutsche♂Orthopädie out 
 德国♂骨科找妹妹
